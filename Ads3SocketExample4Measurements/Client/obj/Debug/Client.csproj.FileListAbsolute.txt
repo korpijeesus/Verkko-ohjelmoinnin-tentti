@@ -14,3 +14,6 @@ C:\Users\lpemake\Desktop\SocketExample4Measurements\Client\bin\Debug\ClientHelpe
 C:\Users\lpemake\Desktop\SocketExample4Measurements\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 C:\Users\lpemake\Desktop\SocketExample4Measurements\Client\obj\Debug\Client.exe
 C:\Users\lpemake\Desktop\SocketExample4Measurements\Client\obj\Debug\Client.pdb
+C:\Users\k1201201\Desktop\Ads3SocketExample4Measurements\Client\bin\Debug\Client.exe.config
+C:\Users\k1201201\Desktop\Ads3SocketExample4Measurements\Client\obj\Debug\Client.exe
+C:\Users\k1201201\Desktop\Ads3SocketExample4Measurements\Client\obj\Debug\Client.pdb
